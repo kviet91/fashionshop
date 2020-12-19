@@ -1,0 +1,64 @@
+.userinfo {
+    border-bottom: 1px solid #CCC;
+    padding: 0px !important;
+    margin-left: 10px;
+    font-weight:bold;
+}
+.info {
+    padding: 5px 0px 10px 20px !important;
+    background:#FFF;
+}
+.info input, .info select{
+    background:#FFF;
+    width: 210px;
+    padding: 5px;
+}
+.info textarea {
+    background:#FFF;
+    padding: 5px;
+    color: #333 !important;
+    font-style:normal !important;
+}
+.profile-submit {
+    text-align:center;
+    margin-top: 20px;
+}
+.profile-submit input {
+    color: #099;
+}
+.profile-submit a{
+    border:1px solid #ccc;
+    padding: 7px;
+    color: #099;
+    text-decoration:none;
+    font-weight: bold;
+}
+.profile-submit a:hover {
+    color: #FFF;
+    background: #099;
+}
+.hovaten {
+    padding-left: 28px !important;
+}
+
+.e-mail {
+    padding-left: 28px !important;
+}
+.dienthoai {
+    padding-left: 28px !important;
+}
+.
+.diachi {
+    padding-left: 28px !important;
+}
+
+.matkhau {
+    padding-left: 24px !important;
+}
+.ava, .tendangnhap {
+    text-align: center;
+}
+.tendangnhap {
+    font-size: 24px;
+    font-weight: bold;
+}
